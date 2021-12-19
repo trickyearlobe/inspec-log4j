@@ -1,0 +1,8 @@
+name: inspec-log4j
+title: Inspec Log4j
+maintainer: Richard Nixon
+copyright: Richard Nixon
+copyright_email: richard.nixon@btinternet.com
+license: Apache-2.0
+summary: A profile which scans for Log4J CVE-2021-44228 and CVE-2021-45046
+version: 0.1.0
